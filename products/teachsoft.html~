@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+  <title>TeachSoft Download</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Quicksand">
+          
+          <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Ubuntu">
+
+<link rel="stylesheet" type="text/css" href="default.css">
+</head>
+<body>
+
+<center><h1>WhatWare TeachSoft</h1></center>
+
+<div class="tab">
+  <button class="tablinks" onclick="location.href='/';">Home</button>
+  <button class="tablinks" onclick="location.href='/products';">Products/Downloads</button>
+  <button class="tablinks" onclick="location.href='/support';">Support</button>
+    <img src="/favicon-32x32.png" style="float:right">
+</div>
+
+<center><p>WhatWare's TeachSoft is a great app for teachers or students.</p></center>
+<p>Features/functions: Calculator, Timer, Speed Tester, Games, Sound Tester, Power Menu</p>
+<p>Download for Windows 7 and up.</p>
+<p>Instructions: Save to desktop and run.</p>
+<p>Note: Sounds will not work without Windows sounds enabled in the Control Panel.</p>
+<a href="/products/download/TeachSoft.bat">Download TeachSoft Here</a><p></p>
+<a href="/support/teachsoft.html">Support and instructions for TeachSoft</a>
+   
+</body>
+</html> 
