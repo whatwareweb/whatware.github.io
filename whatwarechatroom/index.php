@@ -9,7 +9,7 @@
  </head>
  <body>
   <div id="content" style="margin-top:10px;height:100%;">
-   <center><h1>Start Group Chat</h1></center>
+   <h1 id="groupchathead">Start Group Chat</h1>
    <div class="chat">
     <div class="users">
      <?php include("users.php");?>
