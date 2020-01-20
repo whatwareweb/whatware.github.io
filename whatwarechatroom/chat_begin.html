@@ -1,0 +1,5 @@
+<link type="text/css" rel="stylesheet" href="styles.css" />
+
+<div class="chat_main">
+    <h3>Chat</h3>
+
