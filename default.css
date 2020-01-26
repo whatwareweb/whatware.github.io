@@ -2,6 +2,9 @@ body {
   font-family: 'Quicksand', serif;
 }
 
+h1 {
+	text-align:center;
+}
     
 /* Style the tab */
 .tab {
