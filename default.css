@@ -22,14 +22,14 @@ h1 {
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  transition: 0.3s;
+  transition: 0.5s;
   font-size: 17px;
   font-family: 'Ubuntu', serif;
 }
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-	transition-duration: .2s;
+	transition-duration: 0.5s;
 	background-color: #ddd;
 }
 
