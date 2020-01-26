@@ -29,7 +29,7 @@ h1 {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-	transition-duration: 5s;
+	transition-duration: .2s;
 	background-color: #ddd;
 }
 
