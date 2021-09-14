@@ -1,2 +1,2 @@
 # whatwareweb.github.io
-Just a website for WhatWare.
+The old website for WhatWare. THe new website is [whatware.tech](https://whatware.tech)
