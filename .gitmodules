@@ -1,0 +1,3 @@
+[submodule "new"]
+	path = new
+	url = https://github.com/whatwareweb/website
